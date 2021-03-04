@@ -36,7 +36,7 @@ class Form extends Component{
       />
       <br/>
       <button className = 'field'>
-        Submit
+        Confirm
       </button>
       
     </div>
