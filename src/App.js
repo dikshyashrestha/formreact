@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import './style.css';
-import Routes from './routes'
+import Routes from './routing'
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 class Form extends Component{
